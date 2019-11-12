@@ -7,7 +7,7 @@
 4. [Authors and Acknowledgements](#Authors-Acknowledgements)
 
 ## Installation <a name="Installation"></a>
-Following libraries must be installed for running the notebook and the web app:
+Following libraries must be installed for running the notebook:
 
     - pyspark
     - pandas
@@ -27,7 +27,7 @@ The key parts of the project are:
 * Exploratory data analysis to get familiar with the data and identify potential features
 * Feature engineering (based on the previous analysis) that provides proper input for the machine learning model, leveraging sparks pipeline concept
 * Selection, training, evaluation and optimization of a classification model
-* A blog post on medium that documents the project with a technical audience in mind
+* A [blog post on medium](https://medium.com/@bytesbysophie/predicting-customer-churn-with-pyspark-for-a-music-streaming-service-9ea4908579?sk=3d1a7ed43423d9e8d983b93d96b1e6fa) that documents the project with a technical audience in mind
 
 ## File Descriptions <a name="File-Descriptions"></a>
 
